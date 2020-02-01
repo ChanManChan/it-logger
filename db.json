@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Dragon Chronos",
+      "date": "2020-02-01T06:57:00.620Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed Hard drive on workstation 003",
+      "attention": false,
+      "tech": "Nithin Gopal",
+      "date": "2020-02-01T05:59:00.490Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Amritha j",
+      "date": "2020-02-01T05:59:19.447Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Nanda",
+      "lastName": "Gopal"
+    },
+    {
+      "id": 2,
+      "firstName": "Arthur",
+      "lastName": "Morgan"
+    },
+    {
+      "id": 3,
+      "firstName": "Dutch",
+      "lastName": "Van Der Linde"
+    },
+    {
+      "firstName": "Dragon",
+      "lastName": "Chronos",
+      "id": 4
+    },
+    {
+      "firstName": "Hotline",
+      "lastName": "Miami",
+      "id": 5
+    }
+  ]
+}
